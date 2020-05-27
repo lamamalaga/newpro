@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLibrary", "HRLibrary\HRLibrary.csproj", "{E0DDB0DD-A97E-432D-978E-2F64301F92B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRUnitTests", "HRUnitTests\HRUnitTests.csproj", "{A972F2E4-4C13-4EEA-A7A1-906179DDFD6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0DDB0DD-A97E-432D-978E-2F64301F92B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DDB0DD-A97E-432D-978E-2F64301F92B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DDB0DD-A97E-432D-978E-2F64301F92B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DDB0DD-A97E-432D-978E-2F64301F92B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A972F2E4-4C13-4EEA-A7A1-906179DDFD6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A972F2E4-4C13-4EEA-A7A1-906179DDFD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A972F2E4-4C13-4EEA-A7A1-906179DDFD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A972F2E4-4C13-4EEA-A7A1-906179DDFD6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79EF312F-FE4D-4045-B67D-D2BF5FF08437}
+	EndGlobalSection
+EndGlobal
