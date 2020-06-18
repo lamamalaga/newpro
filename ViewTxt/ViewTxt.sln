@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewTxt", "ViewTxt\ViewTxt.csproj", "{ECAC32E2-F272-45EB-8D4F-69AD5E18689E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAC32E2-F272-45EB-8D4F-69AD5E18689E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAC32E2-F272-45EB-8D4F-69AD5E18689E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAC32E2-F272-45EB-8D4F-69AD5E18689E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAC32E2-F272-45EB-8D4F-69AD5E18689E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88C5C199-9266-4075-BEEC-3B1271D09ED4}
+	EndGlobalSection
+EndGlobal
